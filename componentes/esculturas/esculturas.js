@@ -55,7 +55,7 @@ export class Esculturas extends CargaVista
  
                     <br/><br/><br/>
                     
-                    <fieldset style=" background: lightblue; ">
+                    <fieldset style=" background: lightblue; padding: 1em; text-align: left;">
                         <p style="color: black; ">  <br/> 
                             A partir de trozos grandes de troncos comienzo a tallar poco a poco la forma que deseo lograr. Considero que el material tiene características 
                             que contribuyen con mi proceso creativo; sobre  todo si se trata de un material que no ha sido fabricado por la mano del hombre. Los nudos de la

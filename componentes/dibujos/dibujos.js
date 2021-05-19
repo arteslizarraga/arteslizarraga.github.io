@@ -52,7 +52,7 @@ export class Dibujos extends CargaVista
  
                     <br/><br/><br/>
                     
-                    <fieldset style=" background: lightblue; ">
+                    <fieldset style=" background: lightblue; padding: 1em; text-align: left;">
                         <p style="color: black; ">  <br/> 
                         El dibujo sirve como una herramienta para la representación de objetos reales o ideas que, a veces, no es posible expresar fielmente con palabras. 
                         De las primeras civilizaciones perduran escasos ejemplares de dibujos, normalmente, por la fragilidad del material en el que fueron ejecutados 

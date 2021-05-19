@@ -59,7 +59,7 @@ export class Pinturas extends CargaVista
  
                     <br/><br/><br/>
                     
-                    <fieldset style=" background: lightblue; ">
+                    <fieldset style=" background: lightblue; padding: 1em; text-align: left;">
                         <p style="color: black; ">  <br/> 
                             El uso del óleo se conoce desde la Antigüedad y estaba ya extendido entre los artistas de la Edad Media, aunque de modo minoritario ya que en 
                             esa época predominaba la pintura al temple o al fresco. A fines del siglo XIV y durante el siglo XV, se comenzó a generalizar el uso del óleo 
