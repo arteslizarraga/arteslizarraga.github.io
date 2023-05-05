@@ -1,0 +1,43 @@
+{
+   "objeto":{
+      "ncorr":127,
+      "cantidadPreguntas":4,
+      "fechaEfectiva":"05/05/2023",
+      "estado":"INACTIVO",
+      "detalles":[
+         {
+            "prelacion":1,
+            "pregunta":"aaaaaaaaaa",
+            "posibleRespuesta":"aaaaaaaaaaaaaaaaa",
+            "obligatorio":"Si",
+            "estado":"ACTIVO"
+         },
+         {
+            "prelacion":2,
+            "pregunta":"bbbbbbbbbbbbb",
+            "posibleRespuesta":"bbbbbbbbbbbbbbbbbb",
+            "obligatorio":"Si",
+            "estado":"ACTIVO"
+         },
+         {
+            "prelacion":3,
+            "pregunta":"cccccccccc",
+            "posibleRespuesta":"cccccccccccc",
+            "obligatorio":"Si",
+            "estado":"ACTIVO"
+         },
+         {
+            "prelacion":4,
+            "pregunta":"dddddddddddddddd",
+            "posibleRespuesta":"dddddddddddd",
+            "obligatorio":"Si",
+            "estado":"ACTIVO"
+         }
+      ]
+   },
+   "errores":[
+      
+   ],
+   "status":200,
+   "mensajeExito":null
+}
